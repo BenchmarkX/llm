@@ -3,7 +3,7 @@
         <a href="https://deepmark.ai">
             <img src="https://deepmark.ai/deepmark.jpg" width="80" />
             <br>
-            DeepMark
+            BenchmarkX
         </a>
     </div>
 </h1>
