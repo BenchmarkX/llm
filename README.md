@@ -8,7 +8,7 @@
     </div>
 </h1>
 
-<p align="center">Deepmark AI empowers Generative AI builders to make informed decisions when choosing among Large Language Models (LLM), enabling seamless assessment of various LLM on your own data, so your AI applications have predictable and reliable performance.</p>
+<p align="center">BenchmarkX combines multiple benchmarks into one composite matrix, representing LLMs overall “intelligence” based on the widest array of metrics.</p>
 
 # Introduction
 
